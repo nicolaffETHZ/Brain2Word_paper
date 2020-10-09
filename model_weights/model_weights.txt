@@ -1,0 +1,1 @@
+Here the model weights are stored, when running the GloVe prediction or classification models.

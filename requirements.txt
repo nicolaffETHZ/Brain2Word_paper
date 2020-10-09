@@ -1,0 +1,10 @@
+tensorflow-gpu == 1.11
+numpy
+xgboost
+scikit-learn
+scipy
+json
+pandas
+regex
+tqdm
+requests
