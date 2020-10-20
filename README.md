@@ -1,6 +1,6 @@
 # nicolaff_NLPBrain
 
-This repository contains the code to reproduce the results from the paper Brain2Word:Decoding Brain Activity for Language Generation. 
+This repository contains the code to reproduce the results from the paper **[Brain2Word:Decoding Brain Activity for Language Generation](https://arxiv.org/abs/2009.04765)**. 
 
 ## Setup
 
